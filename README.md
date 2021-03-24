@@ -6,10 +6,10 @@ A personal study application that allows the user to create and modify study que
 Gabriella Pujada
 
 ## Current Features
-*Add new study subjects and new questions corresponding to those subjects
-*Change dark/light theme
-*Order subjects alphabetically or chronologically
-*Import subjects and questions from existing database
+* Add new study subjects and new questions corresponding to those subjects
+* Change dark/light theme
+* Order subjects alphabetically or chronologically
+* Import subjects and questions from existing database
 
 ## Possible Options
 * Add or import from an existing open-source study API
